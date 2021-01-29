@@ -1,18 +1,17 @@
-//****************************************************************************************
-// CLASS: TuitionConstants (TuitionConstants.java)
+//**************************************************************************************************
+// CLASS: TuitionConstants
 //
 // DESCRIPTION
-// A description of the contents of this file.
+// Constants that are used in calculating the tuition for on-campus and online students. Use these
+// constants in the OnCampusStudent and OnlineStudent classes.
 //
-// COURSE AND PROJECT INFO
-// CSE205 Object Oriented Programming and Data Structures, semester and year
-// Project Number: 2
-//
-// AUTHORS
-// Teodoro Salgado, tjsalgad, tsalgado96@gmail.com
-// Isaac Pena, ipena5, ippenaisaac@gmail.com
-// Stephen Elledge, saelledg, saelledg@asu.edu
-// ****************************************************************************************
+// AUTHOR
+// Kevin R. Burger (burgerk@asu.edu)
+// Computer Science & Engineering
+// School of Computing, Informatics, and Decision Systems Engineering
+// Fulton Schools of Engineering
+// Arizona State University, Tempe, AZ 85287-8809
+//**************************************************************************************************
 public class TuitionConstants {
 
     public static final int ONCAMP_ADD_CREDITS  = 475;

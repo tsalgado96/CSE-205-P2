@@ -2,10 +2,12 @@
 // CLASS: OnCampusStudent (OnCampusStudent.java)
 //
 // DESCRIPTION
-// A description of the contents of this file.
+// A direct subclass of the abstract class Student. It declares two public int constants
+// RESIDENT which is 1 and NON_RESIDENT which is 2. It adds new instance variables that are
+// specific to on-campus students, mResident and mProgramFee.
 //
 // COURSE AND PROJECT INFO
-// CSE205 Object Oriented Programming and Data Structures, semester and year
+// CSE205 Object Oriented Programming and Data Structures, Spring 2021
 // Project Number: 2
 //
 // AUTHORS
@@ -15,6 +17,7 @@
 // ****************************************************************************************
 
 public class OnCampusStudent extends Student {
+
     public static int RESIDENT = 1;
     public static int NON_RESIDENT = 2;
     private int mResident;

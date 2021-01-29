@@ -2,10 +2,11 @@
 // CLASS: OnlineStudent (OnlineStudent.java)
 //
 // DESCRIPTION
-// A description of the contents of this file.
+// A direct subclass of the abstract class Student. It adds a new instance variable that
+// is specific to online students, mTechFee.
 //
 // COURSE AND PROJECT INFO
-// CSE205 Object Oriented Programming and Data Structures, semester and year
+// CSE205 Object Oriented Programming and Data Structures, Spring 2021
 // Project Number: 2
 //
 // AUTHORS
@@ -15,6 +16,7 @@
 // ****************************************************************************************
 
 public class OnlineStudent extends Student {
+
     private boolean mTechFee;
 
     /**

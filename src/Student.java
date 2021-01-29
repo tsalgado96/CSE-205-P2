@@ -2,10 +2,11 @@
 // CLASS: Student (Student.java)
 //
 // DESCRIPTION
-// A description of the contents of this file.
+// An abstract class that implements the java.lang.Comparable<T> interface. The
+// superclass to OnCampusStudent and OnlineStudent
 //
 // COURSE AND PROJECT INFO
-// CSE205 Object Oriented Programming and Data Structures, semester and year
+// CSE205 Object Oriented Programming and Data Structures, Spring 2021
 // Project Number: 2
 //
 // AUTHORS

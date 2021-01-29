@@ -1,18 +1,15 @@
-//****************************************************************************************
-// CLASS: Sorter (Sorter.java)
+//**************************************************************************************************
+// CLASS: Sorter
 //
 // DESCRIPTION
-// A description of the contents of this file.
+// Implements the insertion sort algorithm to sort an ArrayList<> of Students.
 //
-// COURSE AND PROJECT INFO
-// CSE205 Object Oriented Programming and Data Structures, semester and year
-// Project Number: 2
-//
-// AUTHORS
-// Teodoro Salgado, tjsalgad, tsalgado96@gmail.com
-// Isaac Pena, ipena5, ippenaisaac@gmail.com
-// Stephen Elledge, saelledg, saelledg@asu.edu
-// ****************************************************************************************
+// AUTHOR
+// Kevin R. Burger (burgerk@asu.edu)
+// Computer Science & Engineering Program
+// Fulton Schools of Engineering
+// Arizona State University, Tempe, AZ 85287-8809
+//**************************************************************************************************
 import java.util.ArrayList;
 
 public class Sorter {
